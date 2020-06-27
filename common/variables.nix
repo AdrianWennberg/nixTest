@@ -1,6 +1,5 @@
 rec {
-  # TODO: Set this to our ldap host IP
-  ldapHost = "ipa.demo1.freeipa.org";
-  ldapBase = "dc=demo1,dc=freeipa,dc=org";
+  ldapHost = "ipa.netsoc.com";
+  ldapBase = "dc=netsoc,dc=com";
 
 }
